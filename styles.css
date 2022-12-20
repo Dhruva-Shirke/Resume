@@ -1,0 +1,171 @@
+a {
+    color: #490074;
+}
+
+a:hover {
+    color: #ff0000;
+}
+
+body {
+    font-family: 'Work Sans', sans-serif;
+    font-size: 1.3em;
+    margin: 0px;
+    text-align: center;
+}
+
+h1 {
+    color: #325afc;
+    font-family: 'Dawning of a New Day', cursive;
+    font-size: 5rem;
+    margin: 50px auto 0 auto;
+}
+
+h2 {
+    color: #325afc;
+    font-family: 'Baloo 2', cursive;
+    font-size: 2.3rem;
+    font-weight: normal;
+}
+
+h3 {
+    color: #11999E;
+
+}
+
+hr {
+    border-style: dotted none none none;
+    border-width: 6px;
+    width: 60px;
+    border-color: rgb(161, 160, 160);
+}
+
+.bottom-cloud {
+    position: absolute;
+}
+
+.bottom-container {
+    background-color: rgb(145, 224, 255);
+    padding: 20px 0;
+}
+
+.profile {
+    margin: 50px auto;
+    width: 50%;
+}
+
+.profile-picture {
+    width: 25%;
+}
+
+.skill-row {
+    line-height: 2;
+    margin: auto;
+    text-align: center;
+    width: 60%;
+}
+
+.top-cloud {
+    left: 200px;
+    position: relative;
+}
+
+.top-container {
+    background-color: rgb(145, 224, 255);
+    padding-top: 100px;
+}
+
+.project-heading {
+    font-weight: bold;
+}
+
+div.education-table {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    font-family: 'Work Sans', sans-serif;
+    border: 0px solid #1C6EA4;
+    width: 50%;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+.divTable.education-table .divTableCell,
+.divTable.education-table .divTableHead {
+    border: 1px solid #7C7C7C;
+    padding: 7px 7px;
+}
+
+.divTable.education-table .divTableBody .divTableCell {
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.divTable.education-table .divTableCell:nth-child(even) {
+    background: #B0E1FC;
+}
+
+.education-table .tableFootStyle {
+    font-size: 14px;
+}
+
+.education-table .tableFootStyle .links {
+    text-align: right;
+}
+
+.education-table .tableFootStyle .links a {
+    display: inline-block;
+    background: #1C6EA4;
+    color: #FFFFFF;
+    padding: 2px 8px;
+    border-radius: 5px;
+}
+
+.education-table.outerTableFooter {
+    border-top: none;
+}
+
+.education-table.outerTableFooter .tableFootStyle {
+    padding: 3px 5px;
+}
+
+.divTable {
+    display: table;
+}
+
+.divTableRow {
+    display: table-row;
+}
+
+.divTableHeading {
+    display: table-header-group;
+}
+
+.divTableCell,
+.divTableHead {
+    display: table-cell;
+}
+
+.divTableHeading {
+    display: table-header-group;
+}
+
+.divTableFoot {
+    display: table-footer-group;
+}
+
+.divTableBody {
+    display: table-row-group;
+}
+
+.Projects {
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.Project-title{
+    font-weight: bold;
+}
+
+.contact-me{
+    margin-bottom: 3%;
+}
